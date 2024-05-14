@@ -1,4 +1,4 @@
-**SIMULATION AND IMPLEMENTATION OF MULTIPLIER**
+**3.SIMULATION AND IMPLEMENTATION OF MULTIPLIER**
 
 **AIM:**
 
@@ -49,7 +49,7 @@ and a3(w2,a[0],b[1]);
 and a4(w3,a[1],b[1]);
 HalfAdder h0(w1,w2,y[1],w4);
 HalfAdder h1(w3,w4,y[2],y[3]);
-endmodule
+endmodule 
 ```
 
 **OUTPUT:**
